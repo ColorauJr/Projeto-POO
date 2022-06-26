@@ -1,0 +1,40 @@
+123abc
+Rivando Bezerra
+presidente
+05/02/2010
+20000
+83999885555
+Rua Leonilda Barbosa de Souza. Nossa Senhora de Fátima, Serra Talhada, PE. CEP: 56909496
+Engenharia
+Doutorado
+321ccc
+Gabriela Andrade
+diretor
+20/04/2014
+8000
+83998556416
+Rua Flor de Íris. Mangabeira, João Pessoa, PB. CEP: 58059744
+Tesouraria
+Economia
+561qwe
+Marcos Sousa
+gerente
+28/11/2018
+5000
+83996541212
+Rua José de Almeida Coutinho. Mangabeira, João Pessoa, PB. CEP: 58059746
+Fabrica��o
+442hgv
+Davi Pereira
+operador
+15/10/2019
+3000
+83988521433
+Rua José de Almeida Coutinho. Mangabeira, João Pessoa, PB. CEP: 58059746
+777iow
+Fernanda Santos
+operador
+05/11/2019
+3000
+83999541727
+Rua José de Almeida Coutinho. Mangabeira, João Pessoa, PB. CEP: 58059746
