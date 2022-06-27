@@ -1,4 +1,4 @@
-# Bem-vindo à wiki do projeto!
+# PROJETO POO!
 
 Aqui teremos a descrição das classes e métodos mais importantes, referentes à primeira nota do projeto para a disciplina de Linguagem de Programação I (um salve ao professor Marcelo).
 
